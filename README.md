@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://jeromeandrewong-order-summary-page.pages.dev/)
+- Live Site URL: [https://jeromeandrewong-order-summary-page.pages.dev/](https://jeromeandrewong-order-summary-page.pages.dev/)
 
 
 ### Built with
