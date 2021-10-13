@@ -144,7 +144,7 @@ article {
 @media (min-width: 768px) {
   .bg__image {
     background: url('./images/pattern-background-desktop.svg') center/cover no-repeat;
-    height: 50vh
+    height: 70vh
   }
   .container {
     width: 500px
