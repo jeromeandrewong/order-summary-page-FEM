@@ -114,7 +114,7 @@ button {
 }
 
 .container-wo-pic {
-  padding: 30px 45px;
+  padding: 20px;
 }
 
 .pricing {
@@ -122,6 +122,7 @@ button {
   border-radius: 10px;
   padding: 20px 30px;
   display: flex;
+  /* flex-direction: column; */
   align-items: center;
   justify-content: space-between;
   margin: 30px auto;
@@ -148,6 +149,25 @@ article {
   }
   .container {
     width: 500px
+  }
+  .container-wo-pic {
+    padding: 30px 45px
+  }
+}
+
+@media (max-width: 400px) {
+  /* .pricing {
+    flex-direction: column;
+  } */
+  .inner-pricing-div {
+    padding-left: 5px;
+  }
+  .btn-change {
+    padding-top: 20px;
+    padding-right: 5px;
+  }
+  .main-p {
+    padding: 0 20px
   }
 }
 
